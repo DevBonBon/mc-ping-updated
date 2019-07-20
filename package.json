@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/Cryptkeeper/mc-ping-updated.git"
   },
+  "engines": {
+    "node": ">=10.16.0"
+  },
   "keywords": [
     "minecraft",
     "ping",
